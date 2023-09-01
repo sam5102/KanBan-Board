@@ -1,7 +1,7 @@
 # Live APP URL
 
 # App Preview
-![App Preview](https://www.linkpicture.com/view.php?img=LPic64f1e5db3dd8d1132062120)
+![App Preview](https://www.linkpicture.com/q/Screenshot-from-2023-09-01-18-52-45_1.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
