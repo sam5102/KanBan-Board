@@ -1,0 +1,11 @@
+.taskHeading {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.board {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

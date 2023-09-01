@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.headerText {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0;
+  font-size: 20px;
+  font-weight: 600;
+  width: 100%;
+}
+
+.loader {
+  display: block;
+  height: 220px;
+  margin: auto;
+}
+
