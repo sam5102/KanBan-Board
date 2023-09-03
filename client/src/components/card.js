@@ -1,6 +1,4 @@
 import React from "react";
-import recycleBin from "./recycle-bin.png";
-import edit from "./edit.png";
 import { Card, Col, Tooltip } from "antd";
 
 const TaskCards = ({ task, deleteTask, updatingTask }) => {
@@ -29,7 +27,7 @@ const TaskCards = ({ task, deleteTask, updatingTask }) => {
           actions={[
             <Tooltip placement="top" title="Delete Task">
               <img
-                src={recycleBin}
+                src="/recycle-bin.png"
                 alt="Delete Task"
                 height={18}
                 width={18}
@@ -38,7 +36,7 @@ const TaskCards = ({ task, deleteTask, updatingTask }) => {
             </Tooltip>,
             <Tooltip placement="top" title="Edit Task">
               <img
-                src={edit}
+                src="/edit.png"
                 alt="Edit Task"
                 height={18}
                 width={18}
